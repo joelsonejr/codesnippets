@@ -15,7 +15,7 @@ namespace CSharpSnippets
             int circuitVoltage = int.Parse(Console.ReadLine());
             Console.Write("Potência do circuito (em watts): ");
             int circuitPower = int.Parse(Console.ReadLine());
-            Console.WriteLine("Comprimento do circuito (em metros): ");
+            Console.Write("Comprimento do circuito (em metros): ");
             double distance = double.Parse(Console.ReadLine());
             Console.Write("Valor máximo para variação da tensão (4%, 5%, etc): ");
             double variation = double.Parse(Console.ReadLine())/100;
