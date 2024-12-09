@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "typescript": "^5.7.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.1"
+  },
+  "name": "jssnippets",
+  "version": "1.0.0",
+  "description": "Several JavaScript code snippets",
+  "main": "biggerNumber.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
