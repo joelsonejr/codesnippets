@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/lab/dev/github/codesnippets/CSharpSnippets/CSharpSnippets.csproj": {}
+    "/mnt/lab/dev/github/codesnippets/cSharp/CSharpSnippets/CSharpSnippets.csproj": {}
   },
   "projects": {
-    "/mnt/lab/dev/github/codesnippets/CSharpSnippets/CSharpSnippets.csproj": {
+    "/mnt/lab/dev/github/codesnippets/cSharp/CSharpSnippets/CSharpSnippets.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/lab/dev/github/codesnippets/CSharpSnippets/CSharpSnippets.csproj",
+        "projectUniqueName": "/mnt/lab/dev/github/codesnippets/cSharp/CSharpSnippets/CSharpSnippets.csproj",
         "projectName": "CSharpSnippets",
-        "projectPath": "/mnt/lab/dev/github/codesnippets/CSharpSnippets/CSharpSnippets.csproj",
+        "projectPath": "/mnt/lab/dev/github/codesnippets/cSharp/CSharpSnippets/CSharpSnippets.csproj",
         "packagesPath": "/home/joe/.nuget/packages/",
-        "outputPath": "/mnt/lab/dev/github/codesnippets/CSharpSnippets/obj/",
+        "outputPath": "/mnt/lab/dev/github/codesnippets/cSharp/CSharpSnippets/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/joe/.nuget/NuGet/NuGet.Config"
