@@ -8,7 +8,7 @@ namespace CSharpSnippets
         public static void Main(string[] args)
         {   
             double copperConductivity = 58;
-            List<double> wireGaugeSizes2 = new List<double>() {0.5, 0.75, 1.0, 1.5, 2.5, 4.0, 6.0, 10.0, 16.0, 25.0, 35.0, 50.0, 70.0,95.0, 120.0, 150.0,185.0, 240.0, 300.0 };
+            List<double> wireGaugeSizes2 = new List<double>() { 0.5, 0.75, 1.0, 1.5, 2.5, 4.0, 6.0, 10.0, 16.0, 25.0, 35.0, 50.0, 70.0,95.0, 120.0, 150.0,185.0, 240.0, 300.0 };
 
             //TODO: Create entity "circuit"
             Console.Write("Tensão do circuito (em volts): ");

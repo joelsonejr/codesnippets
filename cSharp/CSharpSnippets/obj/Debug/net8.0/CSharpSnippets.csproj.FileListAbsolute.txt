@@ -1,0 +1,15 @@
+/mnt/lab/dev/github/codesnippets/cSharp/CSharpSnippets/obj/Debug/net8.0/CSharpSnippets.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/lab/dev/github/codesnippets/cSharp/CSharpSnippets/obj/Debug/net8.0/CSharpSnippets.AssemblyInfoInputs.cache
+/mnt/lab/dev/github/codesnippets/cSharp/CSharpSnippets/obj/Debug/net8.0/CSharpSnippets.AssemblyInfo.cs
+/mnt/lab/dev/github/codesnippets/cSharp/CSharpSnippets/obj/Debug/net8.0/CSharpSnippets.csproj.CoreCompileInputs.cache
+/mnt/lab/dev/github/codesnippets/cSharp/CSharpSnippets/obj/Debug/net8.0/CSharpSnippets.sourcelink.json
+/mnt/lab/dev/github/codesnippets/cSharp/CSharpSnippets/bin/Debug/net8.0/CSharpSnippets
+/mnt/lab/dev/github/codesnippets/cSharp/CSharpSnippets/bin/Debug/net8.0/CSharpSnippets.deps.json
+/mnt/lab/dev/github/codesnippets/cSharp/CSharpSnippets/bin/Debug/net8.0/CSharpSnippets.runtimeconfig.json
+/mnt/lab/dev/github/codesnippets/cSharp/CSharpSnippets/bin/Debug/net8.0/CSharpSnippets.dll
+/mnt/lab/dev/github/codesnippets/cSharp/CSharpSnippets/bin/Debug/net8.0/CSharpSnippets.pdb
+/mnt/lab/dev/github/codesnippets/cSharp/CSharpSnippets/obj/Debug/net8.0/CSharpSnippets.dll
+/mnt/lab/dev/github/codesnippets/cSharp/CSharpSnippets/obj/Debug/net8.0/refint/CSharpSnippets.dll
+/mnt/lab/dev/github/codesnippets/cSharp/CSharpSnippets/obj/Debug/net8.0/CSharpSnippets.pdb
+/mnt/lab/dev/github/codesnippets/cSharp/CSharpSnippets/obj/Debug/net8.0/CSharpSnippets.genruntimeconfig.cache
+/mnt/lab/dev/github/codesnippets/cSharp/CSharpSnippets/obj/Debug/net8.0/ref/CSharpSnippets.dll
